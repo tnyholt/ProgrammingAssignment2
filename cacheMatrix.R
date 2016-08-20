@@ -1,3 +1,6 @@
+
+# Courera Week 3 programming assignement 2
+# Student: Tracey Nyholt
 # The following function takes a matrix as an input and computes its inverse. Morever, 
 # we use global variable declaration to cache the inverse to save on computation time
 makeCacheMatrix <- function(inMat = matrix()) {
